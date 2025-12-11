@@ -2,6 +2,7 @@
 
 An interactive dashboard exploring the mystical connection between stock market movements and lunar cycles. Built with Streamlit and enhanced by Kiro AI assistance.
 
+## 🌐 **[🚀 Live Demo - Click Here!] (https://stock-moon-dashboard-mfvnpy52tn4pafwwtkieum.streamlit.app/)**
 ![Dashboard Preview](https://via.placeholder.com/800x400/2a5298/ffffff?text=Dashboard+Preview)
 
 ## 🚀 Features
@@ -107,5 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This dashboard is for **entertainment and educational purposes only**. The correlations shown are fictional and should not be used for actual financial decisions. Always consult with financial professionals for investment advice.
 
 ---
+
 
 **⭐ If you found this project interesting, please give it a star!**
